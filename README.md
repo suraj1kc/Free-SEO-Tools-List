@@ -22,9 +22,8 @@ Quickly access over 100+ popular SEO/Marketing tools curated by [WPLogout](https
 ### Technical SEO
 | Name | Link |
 |---|---|
-| Google Analytics                    | https://analytics.google.com/
-|                           
-| Google Tag Manager                  | https://tagmanager.google.com/                         |
+| Google Analytics                    | https://analytics.google.com/                           |                          
+| Google Tag Manager                  | https://tagmanager.google.com/                          |
 | Google Data Studio                  | https://datastudio.google.com/                          |
 | Varvy Tools                         | https://varvy.com/toolbox/                              |
 | Ahrefs                              | https://ahrefs.com/                                     |
