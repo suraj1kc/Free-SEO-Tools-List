@@ -1,7 +1,7 @@
 # Free SEO Tools List
 Quickly access over 100+ popular SEO/Marketing tools curated by [WPLogout](https://www.wplogout.com).
 ### Table of contents
-* [Technical SEO] (https://github.com/suraj1kc/Free-SEO-Tools-List#technical-seo)
+* [Technical SEO](https://github.com/suraj1kc/Free-SEO-Tools-List#technical-seo)
 * [Keyword Research Tools](https://github.com/suraj1kc/Free-SEO-Tools-List#keyword-research-tools)
 * [SERP Checker](https://github.com/suraj1kc/Free-SEO-Tools-List#serp-checker)
 * [Authority Checker & Other Tools](https://github.com/suraj1kc/Free-SEO-Tools-List#authority-checker--other-tools)
