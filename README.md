@@ -1,22 +1,32 @@
 # Free SEO Tools List
 Quickly access over 100+ popular SEO/Marketing tools curated by [WPLogout](https://www.wplogout.com).
 ### Table of contents
-* Technical SEO Websites/Tools
-* Keyword Research Tools
-* Search Engine Result Page Checker
-* Website Authority Checker
-* Website Page Speed Checker
-* Webmaster Tools
-* Push Notification Sites
-* Marketing Automation Tools
-* Domain & Hosting Sites
-* Best SEO Friendly WordPress Themes
-* Email Marketing Tools
-* Image Optimization Sites
-* Stock Images Websites
-* Content Delivery Network (CDN) sites
-* SSL Checker
-* WordPress Best Plugins
+* [Technical SEO] (https://github.com/suraj1kc/Free-SEO-Tools-List#technical-seo)
+* [Keyword Research Tools](https://github.com/suraj1kc/Free-SEO-Tools-List#keyword-research-tools)
+* [SERP Checker](https://github.com/suraj1kc/Free-SEO-Tools-List#serp-checker)
+* [Authority Checker & Other Tools](https://github.com/suraj1kc/Free-SEO-Tools-List#authority-checker--other-tools)
+* [Page Speed Checker](https://github.com/suraj1kc/Free-SEO-Tools-List#page-speed-checker)
+* [Webmaster Tools](https://github.com/suraj1kc/Free-SEO-Tools-List#webmaster-tools)
+* [Mobile Audit](https://github.com/suraj1kc/Free-SEO-Tools-List#mobile-audit)
+* [Push Notification](https://github.com/suraj1kc/Free-SEO-Tools-List#push-notification)
+* [Marketing Automation](https://github.com/suraj1kc/Free-SEO-Tools-List#marketing-automation)
+* [Hosting](https://github.com/suraj1kc/Free-SEO-Tools-List#hosting)
+* [Domain Registration](https://github.com/suraj1kc/Free-SEO-Tools-List#domain-registration)
+* [WordPress Themes & Plugins](https://github.com/suraj1kc/Free-SEO-Tools-List#wordpress-themes--plugins)
+* [Email Marketing Tools](https://github.com/suraj1kc/Free-SEO-Tools-List#email-marketing-tools)
+* [Image Optimizer](https://github.com/suraj1kc/Free-SEO-Tools-List#image-optimizer)
+* [Stock Images](https://github.com/suraj1kc/Free-SEO-Tools-List#stock-images)
+* [Other Tools](https://github.com/suraj1kc/Free-SEO-Tools-List#other-tools)
+* [Facebook Tools](https://github.com/suraj1kc/Free-SEO-Tools-List#facebook-tools)
+* [CDN](https://github.com/suraj1kc/Free-SEO-Tools-List#cdn)
+* [Headline Analyzer](https://github.com/suraj1kc/Free-SEO-Tools-List#headline-analyzer)
+* [Content Analysis](https://github.com/suraj1kc/Free-SEO-Tools-List#content-analysis)
+* [SSL](https://github.com/suraj1kc/Free-SEO-Tools-List#ssl)
+* [Other WordPress Plugin](https://github.com/suraj1kc/Free-SEO-Tools-List#other-wordpress-plugin)
+* [Redirection](https://github.com/suraj1kc/Free-SEO-Tools-List#redirection)
+* [Google Ads Tools](https://github.com/suraj1kc/Free-SEO-Tools-List#google-ads-tools)
+* [YouTube SEO](https://github.com/suraj1kc/Free-SEO-Tools-List#youtube-seo)
+* [Table Generator](https://github.com/suraj1kc/Free-SEO-Tools-List#table-generator)
 
 ---
 ### Technical SEO
