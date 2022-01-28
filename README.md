@@ -50,6 +50,17 @@ Quickly access over 100+ popular SEO/Marketing tools curated by [WPLogout](https
 | Word Stream       | https://www.wordstream.com/keywords                                                       |                        |
 | Keyword Surfer    | https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca | Chrome Extension       |
 | WMS Everywhere    | https://chrome.google.com/webstore/detail/chbmoagfhnkggnhbjpoonnmhnpjdjdod                | Chrome Extension       |
+| | Infinite Suggest | https://www.infinitesuggest.com/ |  | 
+----
+### SERP Checker
+| Name | Link | Remarks |
+|---|---|---|
+| SERP Surf              | http://www.serpsurf.com/                        | Free                                                       |
+| Whats My SERP          | http://whatsmyserp.com/                         | Free but need to signup to check upto 10 keywords for free |
+| SERP Robot             | https://www.serprobot.com                       | Free + Trail for 14 Days                                   |
+| Search Latte           | http://searchlatte.com/                         |                                                            |
+| SERP Watcher           | https://serpwatcher.com/                        |                                                            |
+| MobileMoxie SERPerator | https://mobilemoxie.com/tools/mobile-serp-test/ |                                                            |
 ----
 # Want a list in email?
 Subscribe it here from my [website](https://www.wplogout.com/free-seo-tools/) and check your email.
