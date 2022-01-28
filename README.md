@@ -70,7 +70,7 @@ Quickly access over 100+ popular SEO/Marketing tools curated by [WPLogout](https
 | Broken Link Checker       | https://ahrefs.com/broken-link-checker                                                        |  |
 | Website Authority Checker | https://ahrefs.com/website-authority-checker                                                  |  |
 ----
-### Authority Checker & Other Tools
+### Page Speed Checker
 | Name | Link | Remarks |
 |---|---|---|
 | Google Mobile Audit | https://www.thinkwithgoogle.com/feature/testmysite/                                   |                   |
