@@ -62,5 +62,14 @@ Quickly access over 100+ popular SEO/Marketing tools curated by [WPLogout](https
 | SERP Watcher           | https://serpwatcher.com/                        |                                                            |
 | MobileMoxie SERPerator | https://mobilemoxie.com/tools/mobile-serp-test/ |                                                            |
 ----
+### Authority Checker & Other Tools
+| Name | Link | Remarks |
+|---|---|---|
+| Moz Bar                   | https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp             |  |
+| Alexa Traffic Rank        | https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel |  |
+| Backlink Checker          | https://ahrefs.com/backlink-checker                                                           |  |
+| Broken Link Checker       | https://ahrefs.com/broken-link-checker                                                        |  |
+| Website Authority Checker | https://ahrefs.com/website-authority-checker                                                  |  |
+----
 # Want a list in email?
 Subscribe it here from my [website](https://www.wplogout.com/free-seo-tools/) and check your email.
