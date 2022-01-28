@@ -50,7 +50,7 @@ Quickly access over 100+ popular SEO/Marketing tools curated by [WPLogout](https
 | Word Stream       | https://www.wordstream.com/keywords                                                       |                        |
 | Keyword Surfer    | https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca | Chrome Extension       |
 | WMS Everywhere    | https://chrome.google.com/webstore/detail/chbmoagfhnkggnhbjpoonnmhnpjdjdod                | Chrome Extension       |
-| | Infinite Suggest | https://www.infinitesuggest.com/ |  | 
+| Infinite Suggest | https://www.infinitesuggest.com/ |  | 
 ----
 ### SERP Checker
 | Name | Link | Remarks |
