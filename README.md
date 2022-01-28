@@ -19,6 +19,9 @@ Quickly access over 100+ popular SEO/Marketing tools curated by [WPLogout](https
 * WordPress Best Plugins
 
 ---
+### Technical SEO
+| Name |
+|---|---|
 
 
 
