@@ -21,7 +21,7 @@ Quickly access over 100+ popular SEO/Marketing tools curated by [WPLogout](https
 ---
 ### Technical SEO
 | Name | Link | Remarks |
-|---|---|
+|---|---|---|
 | Google Analytics                    | https://analytics.google.com/                           | |                          
 | Google Tag Manager                  | https://tagmanager.google.com/                          | | 
 | Google Data Studio                  | https://datastudio.google.com/                          | |
