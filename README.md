@@ -20,18 +20,18 @@ Quickly access over 100+ popular SEO/Marketing tools curated by [WPLogout](https
 
 ---
 ### Technical SEO
-| Name | Link |
+| Name | Link | Remarks |
 |---|---|
-| Google Analytics                    | https://analytics.google.com/                           |                          
-| Google Tag Manager                  | https://tagmanager.google.com/                          |
-| Google Data Studio                  | https://datastudio.google.com/                          |
-| Varvy Tools                         | https://varvy.com/toolbox/                              |
-| Ahrefs                              | https://ahrefs.com/                                     |
-| Browseo                             | http://www.browseo.net/                                 |
-| SEO Site Checkup                    | https://seositecheckup.com/                             |
-| SEMrush                             | https://www.semrush.com/                                |
-| Google Structured Data Testing Tool | https://search.google.com/structured-data/testing-tool  |
-| Schema Markup Generator             | https://technicalseo.com/tools/schema-markup-generator/ |
+| Google Analytics                    | https://analytics.google.com/                           | |                          
+| Google Tag Manager                  | https://tagmanager.google.com/                          | | 
+| Google Data Studio                  | https://datastudio.google.com/                          | |
+| Varvy Tools                         | https://varvy.com/toolbox/                              | |
+| Ahrefs                              | https://ahrefs.com/                                     | |
+| Browseo                             | http://www.browseo.net/                                 | |
+| SEO Site Checkup                    | https://seositecheckup.com/                             | |
+| SEMrush                             | https://www.semrush.com/                                | |
+| Google Structured Data Testing Tool | https://search.google.com/structured-data/testing-tool  | |
+| Schema Markup Generator             | https://technicalseo.com/tools/schema-markup-generator/ | |
 
 
 ----
